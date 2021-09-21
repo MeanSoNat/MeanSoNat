@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeanSoNat
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHO
+- 🌱 I’m currently learning PHP, Python, JS .
 
 <!---
 MeanSoNat/MeanSoNat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
