@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeanSoNat
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP, Carbon
 - 🌱 I’m currently learning PHP, Python, JS .
 
 <!---
